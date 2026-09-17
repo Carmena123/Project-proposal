@@ -1,0 +1,52 @@
+# COMPUTER SCIENCE 2
+
+## Project Proposal
+
+### I. Project Title
+
+**TaskTrack: Assignment and Deadline Tracker**
+
+### II. Problem Statement
+
+Many students have a hard time keeping track of their assignments and deadlines, especially when they have many subjects and activities to finish. This can cause them to forget tasks or rush them at the last minute. This project aims to create a simple program that helps students keep track of their assignments and know which tasks they need to finish.
+
+### III. Project Objectives
+
+1. To create a program that allows students to add and keep track of their assignments and deadlines.
+2. To help students identify which assignments they need to complete first based on their deadlines.
+3. To create a simple and easy-to-use system that students can use to organize their schoolwork.
+
+### IV. Planned Features
+
+* Add an assignment and its deadline.
+* View the list of assignments.
+* Mark an assignment as completed.
+* Show which assignments are still unfinished.
+* Organize assignments based on their deadlines.
+
+### V. Planned Inputs and Outputs
+
+**Inputs:**
+
+* Assignment name
+* Subject
+* Deadline
+* Completion status
+
+**Outputs:**
+
+* List of assignments
+* Assignment deadlines
+* Completed and unfinished assignments
+* Tasks that need to be finished soon
+
+### VI. Logic Plan — Pseudocode
+
+1. Start the program.
+2. Ask the user if they want to add an assignment or view their assignments.
+3. If they choose to add an assignment, ask for the assignment name, subject, and deadline.
+4. Save the assignment information.
+5. If they choose to view assignments, display the saved assignments and their deadlines.
+6. Allow the user to mark an assignment as completed.
+7. Display the updated list of assignments.
+8. End the program.
